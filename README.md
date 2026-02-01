@@ -5,16 +5,16 @@
 
 ### 🚀 About Me
 
-- 💼 Software Developer at **Flashaid**
-- 🧠 2.5+ years of experience building and shipping full-stack applications
-- ⚙️ Experienced with **TypeScript, JavaScript, React, Next.js, React Native**
-- 🧩 Backend expertise in **Node.js, Express, Java (Spring Boot)**
-- 🗄️ Worked with **PostgreSQL, MongoDB**
-- ☁️ Hands-on with **Docker, AWS, GCP, NGINX**
-- 🔁 Familiar with **CI/CD pipelines, GitHub, Jira**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🌱 Focused on clean architecture, scalability, and performance
-- 🔍 Open to opportunities where I can build impactful products and grow as an engineer
+I’m a Software Developer at **Flashaid** with 2.5+ years of experience building and shipping full-stack web and mobile applications. I work primarily with **TypeScript, React, Next.js, Node.js, and Java (Spring Boot)**, and have hands-on experience designing clean APIs, integrating real-world systems, and working with **PostgreSQL and MongoDB**. I enjoy building scalable, production-ready applications with a strong focus on system design, performance, and developer experience.
+
+---
+
+### 🎓 Education
+
+**B.Tech in Electronics and Computer Science**  
+Pillai College of Engineering, Panvel  
+📍 Navi Mumbai, Maharashtra | 🎓 CGPA: **9.3**  
+2020 – 2024
 
 ---
 
