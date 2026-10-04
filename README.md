@@ -5,7 +5,6 @@
   <a href="https://trailgrad.com"><img src="https://img.shields.io/badge/Trailgrad-Live-0F83C0?style=flat-square" alt="Trailgrad"></a>
   <a href="https://linkedin.com/in/nikhilverma95"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vermanikhilwork@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nikhilverma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square" alt="Portfolio"></a>
 </p>
 
 ---
