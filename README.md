@@ -2,6 +2,7 @@
 <p align="center"><b>Full Stack Developer</b> · TypeScript · React · Node.js · PostgreSQL · AI</p>
 
 <p align="center">
+  <a href="https://nikhilv.in"><img src="https://img.shields.io/badge/Website-nikhilv.in-282621?style=flat-square" alt="Website"></a>
   <a href="https://trailgrad.com"><img src="https://img.shields.io/badge/Trailgrad-Live-0F83C0?style=flat-square" alt="Trailgrad"></a>
   <a href="https://linkedin.com/in/nikhilverma95"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vermanikhilwork@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
